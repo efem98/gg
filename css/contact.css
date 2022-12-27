@@ -1,0 +1,13 @@
+.map p{
+	padding-top: 300px;
+	color: white;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.rope{
+	display: flex;
+	justify-content: space-around;
+}
+.call{
+	text-align: center;
+}
